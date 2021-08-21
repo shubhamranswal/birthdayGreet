@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birthday Greet</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="shubham_ranswal">Shubham Ranswal</string>
+    <string name="create_card">Create Card</string>
+    <string name="hintName">Shubham Ranswal</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="birthday_wishes">Happy Birthday!!</string>
+    <string name="best_wishes_for_your_future_ni_wish_all_your_dreams_come_true_from_shubham_ranswal">Best Wishes for your future… \nI wish all your dreams come true… \n\n\n\nFrom Shubham Ranswal</string>
+</resources>
